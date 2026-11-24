@@ -24,14 +24,18 @@ message instead of on decoding the sentence.
 
 ## Two modes
 
-**Document mode.** You are producing text that will live somewhere: a report, proposal,
+### Document mode
+
+You are producing text that will live somewhere: a report, proposal,
 README, email, memo, web page, release note, policy. Apply everything below, and read the
 relevant reference file when the piece is long or the stakes are high.
 
-**Conversation mode.** You are replying to the user in session. The same rules apply,
-scaled to the size of a reply. See "Replying in chat" near the end.
+### Conversation mode
 
-## Before you write: know the audience
+You are replying to the user in session. The same rules apply,
+scaled to the size of a reply. See "Chat replies" near the end.
+
+## Audience first
 
 The first rule is write for your audience. Answer these before drafting anything longer
 than a paragraph:
@@ -48,7 +52,7 @@ each reader can find what applies to them.
 Tell the reader early why the material matters to them: "If you want a research grant,
 here is what you have to do."
 
-## Organize so the reader can follow
+## Document structure
 
 - **Lead with the answer.** Put the purpose and the bottom line first. Background goes
   toward the end, if it goes in at all. People read to get answers, not to be eased in.
@@ -57,53 +61,76 @@ here is what you have to do."
 - **Process in order.** When describing steps, present them in the order they happen.
 - **One topic per paragraph,** opened by a topic sentence that states what the paragraph
   is about.
-- **Use headings that carry information.** Question headings ("How do I apply?") are best
-  when you know the reader's questions. Statement headings are next best. Single-word
-  topic headings ("General", "Scope", "Overview") are the weakest because they could mean
-  anything. Keep heading depth to three levels or fewer.
+- **Use short, plain headings.** Two words is ideal: "Plan differences", "Next steps",
+  "Who qualifies?". A short heading is fast to scan and hard to make clever. One word works
+  when it names the topic exactly, but avoid vague ones ("General", "Scope", "Overview")
+  because they could mean anything. Go longer only when two words would be unclear. Keep
+  heading depth to three levels or fewer.
+- **No lead-in headers on paragraphs.** Do not open a paragraph with a phrase that acts as
+  its heading, such as "**Where things pull apart.** The two plans differ in cost and
+  timing." If the paragraph needs a heading, put the heading on its own line and name the
+  topic in plain, literal words: "Plan differences", not "Where things pull apart". Start the
+  paragraph on the next line. A clever or figurative heading makes the reader decode it
+  before they can use it.
 - **Use transitions.** Pointing words (this, that, these), echo links (repeating a key
   phrase), and connectives (however, also, therefore) tell the reader how a paragraph
   relates to the one before it. Writers skip these because they already know the
   structure; readers need them.
 - **Add a table of contents or jump links** to anything long.
 
-## Write the sentence
+## Sentence rules
 
-**Active voice.** Make the actor the subject: "We proposed new regulations," not "New
+### Active voice
+
+Make the actor the subject: "We proposed new regulations," not "New
 regulations were proposed." Passive voice hides who is responsible, which is the single
 biggest problem in government writing. Flag a sentence when it has a form of "to be"
 plus a past participle. Passive is acceptable only when the actor is genuinely unknown
 or irrelevant.
 
-**Present tense.** "These sections tell you how to meet the requirements," not "These
+### Present tense
+
+"These sections tell you how to meet the requirements," not "These
 sections describe types of information that would satisfy..." Present tense is the
 simplest, strongest form of the verb. Use other tenses only when accuracy requires them.
 
-**Say who.** Use "you" for the reader and "we" for yourself or the organization. Pronouns
+### Use pronouns
+
+Use "you" for the reader and "we" for yourself or the organization. Pronouns
 cut words and make responsibilities clear.
 
-**One idea per sentence.** Long sentences with stacked clauses and exceptions usually mean
+### Short sentences
+
+Long sentences with stacked clauses and exceptions usually mean
 the writer has not decided what to say. Split them. When an "if" clause is long, make it
 its own sentence: "Suppose that... In this case, you may..."
 
-**Uncover hidden verbs.** "We analyze data," not "We conduct an analysis of the data."
+### Hidden verbs
+
+"We analyze data," not "We conduct an analysis of the data."
 Nouns ending in -ment, -tion, -sion, -ance, and -ing that sit between "the" and "of" are
 usually a verb in disguise, and the sentence gets longer and weaker to accommodate them.
 
-**Must, not shall.** "Must" for obligations, "must not" for prohibitions, "may" for
+### Avoid "shall"
+
+"Must" for obligations, "must not" for prohibitions, "may" for
 permission, "should" for recommendations. "Shall" is ambiguous between obligation and
 prediction and nobody says it aloud.
 
-**Positive form.** "You must arrive by 5:00 if you want a ride," not "If you fail to
+### Positive form
+
+"You must arrive by 5:00 if you want a ride," not "If you fail to
 arrive by 5:00, I cannot pick you up." Avoid double negatives ("not ... unless", "no fewer
 than") and exceptions to exceptions. Readers process a positive condition far faster.
 
-**Break up noun strings.** Three nouns in a row is the limit; past that, readers cannot
+### Noun strings
+
+Three nouns in a row is the limit; past that, readers cannot
 tell which word is the noun. Add prepositions and articles: "procedures to protect the
 safety of workers in underground mines," not "underground mine worker safety protection
 procedures."
 
-## Choose the word
+## Word choice
 
 - **Familiar over formal.** "Use" not "utilize", "help" not "assist", "if" not "in the
   event of", "start" not "commence". See `references/word-list.md` for the full table.
@@ -126,7 +153,7 @@ procedures."
 - **Use examples.** The more complex the concept, the more an example helps. A good
   example can replace a long explanation.
 
-## Shape the page
+## Page layout
 
 - **Short paragraphs.** Aim for under 150 words, three to eight sentences. Never over 250.
   Vary the length; a one-sentence paragraph is fine.
@@ -147,7 +174,7 @@ procedures."
 - **PDFs** are hard to read on phones and for screen readers. Prefer a page; if you must
   post a PDF, describe what it is, how big it is, and who needs it.
 
-## Replying in chat
+## Chat replies
 
 A reply is a document with one reader who is waiting. Apply the framework at reply scale:
 
@@ -163,8 +190,10 @@ A reply is a document with one reader who is waiting. Apply the framework at rep
   table when the reader must compare values.
 - Expand uncommon acronyms the first time. Do not invent names for things.
 - Headings only in long replies, and then no more than a few.
+- No lead-in headers on paragraphs. If a paragraph needs a heading, give it a plain one of
+  about two words on its own line.
 
-## Self-check before you finish
+## Final check
 
 Run a mental paraphrase test: if the reader restated this in their own words, would they
 get it right, and would they know what to do next? The guide's testing case studies show
@@ -176,11 +205,13 @@ that readers often say text is "clear" and still take the wrong action. Then sca
 4. Any sentence over about 25 words that could split?
 5. Any paragraph over 150 words?
 6. Any acronym not defined, or defined but obvious?
-7. Any heading that could mean anything?
+7. Any heading that could mean anything, or that could be cut to two plain words?
 8. Any list that is not parallel or has no lead-in?
 9. Is the same thing called by the same name throughout?
+10. Does any paragraph open with a lead-in header, or any heading use a clever phrase
+    instead of plain words?
 
-## When to read the references
+## Reference files
 
 The files under `references/` are the guide itself, section by section, with every
 example. Read them when the task is large or when you need to show your work.
